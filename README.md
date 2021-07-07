@@ -1,21 +1,7 @@
----
-layout: home
-permalink: index.html
-
-# Please update this with your repository name and title
-repository-name: e16-co502-RISCV-pipeline-cpu-group04
-title:
----
-
-[comment]: # "This is the standard layout for the project, but you can clean this and use your own template"
 
 # RISCV Pipeline Proccesor Impementation
 
 ---
-
-This is a sample image, to show how to add images to your page. To learn more options, please refer [this](https://projects.ce.pdn.ac.lk/docs/faq/how-to-add-an-image/)
-
-![Sample Image](./images/sample.png)
 
 
 ## Team
